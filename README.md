@@ -1,11 +1,11 @@
 # Covid-19-in-India-Dashboard-Analysis
-Overview:-
+# Overview:-
 
 
 This project aims to analyze the COVID-19 pandemic's impact in India through an interactive dashboard. The dashboard provides a comprehensive view of COVID-19 cases, recoveries, deaths, and vaccination rates across different states and time periods. By visualizing trends and patterns, the project helps users understand the pandemic's progression in India and make data-driven decisions.
 
 
-Features:-
+# Features:-
 
 
 Interactive Dashboard: Visualizes key COVID-19 metrics such as confirmed cases, active cases, recoveries, deaths, and vaccination rates.
@@ -19,7 +19,7 @@ Comparative Insights: Enables comparison between states and over different time 
 Data Filtering: Allows users to filter data by date range, states, and specific metrics for customized analysis.
 
 
-Tools & Technologies:-
+# Tools & Technologies:-
 
 
 Tableau: Used for creating the interactive dashboard and visualizing data.
@@ -31,7 +31,7 @@ Pandas: Used for data manipulation and preparation.
 Jupyter Notebook: Utilized for exploratory data analysis (EDA) and documenting the analysis process.
 
 
-Data Sources:-
+# Data Sources:-
 
 
 COVID-19 India API: COVID19India API – Used to fetch the latest COVID-19 data for India.
@@ -39,7 +39,7 @@ COVID-19 India API: COVID19India API – Used to fetch the latest COVID-19 data 
 Government of India Open Data: Additional datasets from government portals for more granular data (if applicable).
 
 
-Acknowledgements:-
+# Acknowledgements:-
 
 COVID-19 India API Team: For providing timely and accurate COVID-19 data.
 
